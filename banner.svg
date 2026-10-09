@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+<defs><linearGradient id="bg"><stop stop-color="#11131a"/><stop offset="1" stop-color="#1b1826"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a9a3bd" stroke-opacity=".055"/></pattern></defs>
+<rect width="1280" height="360" rx="20" fill="url(#bg)"/><rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+<path d="M65 70H1215" stroke="#343440"/><circle cx="68" cy="42" r="5" fill="#8d839c"/><circle cx="88" cy="42" r="5" fill="#636675"/><circle cx="108" cy="42" r="5" fill="#424653"/>
+<g font-family="monospace"><text x="65" y="117" fill="#a99cce" font-size="17">skovanniy@obsid:~ $ whoami</text><text x="62" y="210" fill="#ece9f2" font-size="76" font-weight="700" letter-spacing="4">OBSID TEAM</text><text x="66" y="251" fill="#a8a8b7" font-size="19">LINUX / SECURITY / CODE</text><text x="66" y="318" fill="#717382" font-size="14">learn. build. understand.</text><text x="1180" y="318" fill="#b4a4d8" font-size="24">_</text></g>
+<path d="M1070 113l65 65-65 65M1142 243h66" fill="none" stroke="#b4a4d8" stroke-width="9" stroke-linecap="square" opacity=".65"/></svg>
